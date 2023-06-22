@@ -17,7 +17,7 @@ body {
 @media (max-width: 800px){
     .cabecalho {
         background-color: #f59bb1;
-        color: rgb(17, 15, 16);
+        color: rgb(255, 205, 230);
         display: flex;
         justify-content: space-around;
         align-items: center;
