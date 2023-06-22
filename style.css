@@ -29,7 +29,7 @@ body {
 }
 
 .petshop{
-    background-image: linear-gradient(#cf63b4,#e096ca);
+    background-image: linear-gradient(#bd7cad,#e096ca);
     color:rgb(222, 159, 159);
     display: flex;
     justify-content: center;
