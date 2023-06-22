@@ -30,7 +30,7 @@ body {
 
 .petshop{
     background-image: linear-gradient(#ffa9e2,#e096ca);
-    color:rgb(222, 159, 159);
+    color:rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
