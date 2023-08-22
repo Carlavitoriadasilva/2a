@@ -27,13 +27,13 @@ body {
   
 @media (max-width 800px){  
  .cabecalho-imagem{
-     width: 5%; 
+     width: 40%; 
  
 }
 
 
 .cabecalho-imagem{
-    width: 10%;
+    width: 30%;
 }
 
 .cabecalho-lista-item{
@@ -43,7 +43,7 @@ body {
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 40%;
 }
 
 .escola{
