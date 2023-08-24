@@ -14,16 +14,17 @@ body {
     padding: 24px 0;
 }
 
-@media (max-width: 800px){
-    .cabecalho {
-        background-color: #bed3f2;
-        color: rgb(255, 205, 230);
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-        padding: 24px 0;  
+@media (max-width: 800px)
+{   .cabecalho {
+    background-color: #bed3f2;
+    color: rgb(255, 205, 230);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;  
 
-} 
+}}
+  
   
 @media (max-width 800px){  
  .cabecalho-imagem{
